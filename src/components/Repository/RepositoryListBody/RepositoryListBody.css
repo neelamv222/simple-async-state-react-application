@@ -1,0 +1,8 @@
+.list-body-wrapper{
+  list-style-type: none;
+  padding-left:0;
+}
+
+.list-body-wrapper.loading{
+  font-size: 16px;  
+}

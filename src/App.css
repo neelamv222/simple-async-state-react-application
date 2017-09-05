@@ -1,0 +1,30 @@
+h2 {
+	color: #006699;
+}
+
+body{
+  font-size: 14px;
+}
+
+.star-style {
+	color:#ffff00;
+	font-size: 20px;
+}
+
+.repository-row {
+ 	list-style-type: none;
+ 	margin: 10px 0;
+}
+
+.repository-row .repository-cell {
+	list-style-type: none;
+  padding:0px 10px;
+  width:150px;
+	display: inline-block;
+	border-right:1px solid black;
+}
+
+.repository-cell:first-child{
+	width:150px;
+}
+
